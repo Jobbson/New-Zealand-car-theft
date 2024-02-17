@@ -1,3 +1,7 @@
+
+
+![1A](https://github.com/Jobbson/New-Zealand-car-theft/assets/69438695/7e0ffaae-30e1-4f3d-90a2-312bb204f91a)
+
 Title: Decoding Vehicle Theft Trends in New Zealand
 
 A Data Analyst's Insight In the landscape of New Zealand's automotive domain, understanding and mitigating vehicle theft is paramount. As a dedicated Data Analyst, I've delved into the intricate data surrounding this issue, applying advanced analytics to unveil insights that can reshape strategies and safeguard our vehicles.
