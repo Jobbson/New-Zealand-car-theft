@@ -54,9 +54,9 @@ Excel, Power query, DAX, Power BI, Problem solving, Critical thinking...
 
 ## Screenshots
 
-![Dasdboard Screenshot](https://github.com/Jobbson/New-Zealand-car-theft/assets/69438695/7e0ffaae-30e1-4f3d-90a2-312bb204f91a)
+![Dashboard Screenshot](https://github.com/Jobbson/New-Zealand-car-theft/assets/69438695/7e0ffaae-30e1-4f3d-90a2-312bb204f91a)
 
-![Dasdboard Screenshot](https://github.com/Jobbson/New-Zealand-car-theft/assets/69438695/0fbbd988-e0a3-4759-bfc9-675d953e454e)
+![Dashboard Screenshot](https://github.com/Jobbson/New-Zealand-car-theft/assets/69438695/0fbbd988-e0a3-4759-bfc9-675d953e454e)
 
 
 ## Features
